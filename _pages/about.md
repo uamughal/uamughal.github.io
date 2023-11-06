@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research Overview"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research focuses on AI-assisted Cybersecurity solutions for autonomous vehicles. I conduct ethical hacking experiments on real-world UAV systems to analyze vulnerabilities. I execute Denial of Service (DoS), Replay, Evil Twin, Stealthy False data injection attacks, etc. I build systems that learn patterns from and collect data about the network, operator, and attacker behaviors. Using machine learning, I analyze the data my system collects to uncover critical operational threats and risks. My goal is to design an intelligent intrusion detection system that can automatically detect and respond to sophisticated attacks.
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/Tello.png)
 
 A data-driven personal website
 ======
