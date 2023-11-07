@@ -27,7 +27,7 @@ provide smooth communication and control.
 
 [Demo: Attack on Drone Swarm](https://clipchamp.com/watch/cwFjLkMFhaI)
 
-![Demo](/images/Demo.mp4)
+[Demo video](/images/Demo.mp4)
 
 ![Editing a markdown file for a talk](/images/Tello.png)
 ![Testbed](/images/Tello_Inspection.png)
