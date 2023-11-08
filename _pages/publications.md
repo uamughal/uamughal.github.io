@@ -41,7 +41,9 @@ Performance Analysis System Level Simulator in LTE-V2X Network Environment”, I
 
 Developed Link Adaptation Simulator and handed over to the Oceanic IT Convergence Research Centre, Hoseo University
 
-**Link Adaptation for Next-Generation Underwater Acoustic Communications Networks, Oceanic IT Convergence Research Centre, Hoseo University.**
+```bash
+Link Adaptation for Next-Generation Underwater Acoustic Communications Networks, Oceanic IT Convergence Research Centre, Hoseo University.
+```
 
 
 More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate)
