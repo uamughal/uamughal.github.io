@@ -29,4 +29,16 @@ R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "
 
 U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm." In Intelligent Unmanned Air Vehicles Communications for Public Safety Networks, pp. 169-197. Singapore: Springer Nature Singapore, 2022.
 
+
+### Product and Simulator
+
+Developed V2X-Simulator and delivers to Korea’s MSIT (Ministry of Science, Information, and Technology)
+
+    Performance Analysis System Level Simulator in LTE-V2X Network Environment”, INHA University Industry-Academia Cooperation Foundation, Program No. C-2019-024785, 2019-09-05.
+
+Developed Link Adaptation Simulator and handed over to the Oceanic IT Convergence Research Centre, Hoseo University
+
+    Link Adaptation for Next-Generation Underwater Acoustic Communications Networks, Oceanic IT Convergence Research Centre, Hoseo University.
+
+
 More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate)
