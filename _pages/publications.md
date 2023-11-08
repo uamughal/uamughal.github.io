@@ -27,4 +27,6 @@ U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Manage
 
 R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in IEEE Access, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273 (IF: 3.9)
 
+U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm." In Intelligent Unmanned Air Vehicles Communications for Public Safety Networks, pp. 169-197. Singapore: Springer Nature Singapore, 2022.
+
 More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate)
