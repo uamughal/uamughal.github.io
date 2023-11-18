@@ -24,9 +24,11 @@ N. Ahmad, U. A. Mughal, K. H. Change, "3D Path Planning of Unmanned Aerial Vehic
 
 S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems.* <span style="color: blue;">(Under Review, IF: 9.551)<span>
 
-U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. <span style="color: blue;"> (IF: 8.373) [Download](/files/V2I.pdf) <span> 
+<span style="color: blue;"> <span>
 
-R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in IEEE Access, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. <span style="color: blue;">[[IF: 3.9, Download]](/files/underwater.pdf) <span> 
+U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [[Download, IF: 8.373]](/files/V2I.pdf) 
+
+R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in IEEE Access, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [[Download, IF: 3.9]](/files/underwater.pdf) 
 
 U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [[Download]](https://link.springer.com/chapter/10.1007/978-981-19-1292-4_8)
 
