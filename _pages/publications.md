@@ -22,7 +22,7 @@ N. Ahmad, U. A. Mughal, K. H. Change, "3D Path Planning of Unmanned Aerial Vehic
 
 ### Journal
 
-S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems.* <span style="color: blue;">(Accepted and in-press, IF: 9.551)<span> 
+S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems.* <span style="color: blue;">(Accepted and in-press, IF: 9.551)<span> [[Download]](/files/IEEE_T_ITS.pdf)
 
 <span style="color: blue;"> <span>
 
