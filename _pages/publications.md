@@ -14,17 +14,23 @@ U. A. Mughal, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Det
 
 U. A. Mughal, M. Ismail and S. A. A. Rizvi, "Stealthy False Data Injection Attack on Unmanned Aerial Vehicles with Partial Knowledge," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10289001. [[Download]](/files/FDI.pdf)
 
-U. A. Mughal, I. Ahmad, and K. H. Chang, “Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems”, in Proc. JCCI 2019: 29th Joint Communication and Information Conference, May 2019
+N. Ahmad, U. A. Mughal, K. H. Change, "3D Path Planning of Unmanned Aerial Vehicles," *2020 Korea Communications Society Conference*, Korea, 2020, pp. 43 - 435. [[Download]](/files/3D-PathPlanning.pdf)
 
-U. A. Mughal, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communications," *2019 Korea Communications Society Conference*, Korea, 2019, pp. 1486 - 1487. 
+U. A. Mughal, I. Ahmad, and K. H. Chang, “Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems”, in Proc. JCCI 2019: 29th Joint Communication and Information Conference, May 2019 [[Download]](/files/JCCI.pdf)
 
-N. Ahmad, U. A. Mughal, K. H. Change, "3D Path Planning of Unmanned Aerial Vehicles," *2020 Korea Communications Society Conference*, Korea, 2020, pp. 43 - 435. 
+U. A. Mughal, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communications," *2019 Korea Communications Society Conference*, Korea, 2019, pp. 1486 - 1487. [[Download]](/files/5G-V2X.pdf)
+
+
 
 ### Journal
 
-S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems.* <span style="color: blue;">(Accepted and in-press, IF: 9.551)<span> [[Download]](/files/IEEE_T_ITS.pdf)
+U. A. Mughal, M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Vehicular Technology* (2023). <span style="color: blue;">(In Process) <span>
+
+S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023). <span style="color: blue;">(Accepted/in-press)<span> [[Download, IF:8.5]](/files/IEEE_T_ITS.pdf)
 
 <span style="color: blue;"> <span>
+
+U. A. Mughal, M. Ismail, C. Yuen, “Deep Learning-based Intrusion Detection System for RIS-UAV assisted V2X Communication”, *Internet of Thing Magazine* (2023). <span style="color: blue;">(Under Review) <span>
 
 U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [[Download, IF: 8.373]](/files/V2I.pdf) 
 
