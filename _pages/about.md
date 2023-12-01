@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*My research focuses on AI-assisted Cybersecurity solutions for autonomous vehicles. I build systems that learn patterns from and collect data about the network, operator, and attacker behaviors. I conduct ethical penetration testing on real world autonomous vehicles to identify the vulnerabilities. I analyze the data my system collects using machine learning to uncover the critical operational threats and risks to develop intelligent intrusion detection system that can automatically detect and respond to the sophisticated attacks*.
+My research focuses on AI-assisted Cybersecurity solutions for autonomous vehicles. I build systems that learn patterns from and collect data about the network, operator, and attacker behaviors. I conduct ethical penetration testing on real world autonomous vehicles to identify the vulnerabilities. I analyze the data my system collects using machine learning to uncover the critical operational threats and risks to develop intelligent intrusion detection system that can automatically detect and respond to the sophisticated attacks.
 
 The executed attacks includes stealthy False data injection, evil twin, replay, de-authentication, evasion attacks, reinforcement learning to attack a drone swarm, etc.
 
