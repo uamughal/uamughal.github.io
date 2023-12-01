@@ -28,7 +28,7 @@ I have taught the following core Computer Science at Tennessee Technological Uni
 - ECE: Circuit Analysis-I                        (Spring 2019)
 
 
-### Instructor (sQurtuba University, Pakistan) 
+### Instructor (Qurtuba University, Pakistan) 
 
 - EE-271: Object Oriented Programming & Data Structure in C++
 
