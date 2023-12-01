@@ -19,7 +19,7 @@ I have taught the following core Computer Science at Tennessee Technological Uni
 
 
 
-### Teaching Assistant (at Inha University, Korea)
+### Teaching Assistant (Inha University, Korea)
 
 - ECE: Advanced Wireless Communications          (Spring 2020)
 
@@ -28,7 +28,7 @@ I have taught the following core Computer Science at Tennessee Technological Uni
 - ECE: Circuit Analysis-I                        (Spring 2019)
 
 
-### Instructor (at Qurtuba University, Pakistan) 
+### Instructor (sQurtuba University, Pakistan) 
 
 - EE-271: Object Oriented Programming & Data Structure in C++
 
