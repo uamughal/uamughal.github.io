@@ -30,11 +30,11 @@ author_profile: true
 ### 5G-V2X for Intelligent Transportation Systems (November 2019)
 *Information Technology Research Center (ITRC), Ministry of Information Science and  Technology, Incheon, Korea*
 
-## Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems   (May 2019)
+### Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems   (May 2019)
 *29th Joint Communication and Information Conference, Gangneung, Korea*
 
 
-## Virtual cells operation for 5G-V2X communications (February 2019)
+### Virtual cells operation for 5G-V2X communications (February 2019)
 *Korea Communications Society Winter Conference, Yongpyeong, Korea*
 
 
