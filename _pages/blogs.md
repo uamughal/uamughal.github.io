@@ -14,5 +14,6 @@ Multi-drone shows, or drone swarms, are a popular form of entertainment that inv
 
 One approach to building a drone detection system is to use machine learning techniques. Machine learning is a subset of artificial intelligence (AI) that enables computers to learn and improve their performance over time without being explicitly programmed. By training a machine learning model on a large dataset of drone images and videos, it is possible to build a drone detection system that can accurately identify and classify different types of drones. [Readmore](https://medium.com/@umairm9552/the-vulnerabilities-of-multi-drone-system-a-cybersecurity-perspective-35e7fa1b398c)
 
-![Picture was taken from Genesis drone show where 3,281 drones participated to  create the Hyundai vehicle brand Genesis logo over Shanghai's skyline in 2021](image.png)
+*Picture was taken from Genesis drone show where 3,281 drones participated to  create the Hyundai vehicle brand Genesis logo over Shanghai's skyline in 2021.*
+![edit](image.png)
 
