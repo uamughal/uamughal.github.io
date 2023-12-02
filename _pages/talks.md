@@ -17,8 +17,9 @@ author_profile: true
 
 - Invited Talk: Adversarial attacks on a drone Swarm with practical Dem  (October 2023)
 
-*CEROC Advisory Board Committee, Tennessee Technological University, TN, USA*
+    *CEROC Advisory Board Committee, Tennessee Technological University, TN, USA*
 
 - Vulnerabilities and Drone Hijacking Demo (September 2022)
-*Cyber Discovery Day, Tennessee Technological University, TN, USA*
+    
+     *Cyber Discovery Day, Tennessee Technological University, TN, USA*
 
