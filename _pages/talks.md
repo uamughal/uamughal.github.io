@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Stealthy False Data Injection Attack on Unmanned Aerial Vehicles (November 2023)
-*Computer Science Graduate Student Seminar, Tennessee Technological University TN, USA*
+*Computer Science Graduate Student Seminar, Tennessee Technological University, TN, USA*
 
 ### Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles (October 2023)
 *IEEE Communications and Network Security Conference, FL, USA*
