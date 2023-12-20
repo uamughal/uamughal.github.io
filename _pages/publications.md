@@ -30,7 +30,6 @@ S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detectio
 
 <span style="color: blue;"> <span>
 
-U. A. Mughal, M. Ismail, C. Yuen, “Deep Learning-based Intrusion Detection System for RIS-UAV assisted V2X Communication”, *Internet of Thing Magazine* (2023). <span style="color: blue;">(Under Review) <span>
 
 U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [[Download, IF: 8.373]](/files/V2I.pdf) 
 
