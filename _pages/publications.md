@@ -20,7 +20,7 @@ U. A. Mughal, I. Ahmad, and K. H. Chang, “Cellular V2X communications in unlic
 
 U. A. Mughal, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communications," *2019 Korea Communications Society Conference*, Korea, 2019, pp. 1486 - 1487. [[Download]](/files/5G-V2X.pdf)
 
-
+<span style="color: blue;"> <span>
 
 ### Journal
 
@@ -28,7 +28,12 @@ U. A. Mughal, M. Ismail, “ Architecture Independent Intrusion Detection System
 
 S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023). <span style="color: blue;">(Accepted/in-press)<span> [[Download, IF:  8.5]](/files/IEEE_T_ITS.pdf)
 
-<span style="color: blue;"> <span>
+### Dataset: 
+Cyber-Physical Dataset for UAVs Under Normal Operations and Cyber-attacks 
+[[Download on IEEE DataPort]](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks)
+
+
+
 
 
 U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [[Download, IF: 8.373]](/files/V2I.pdf) 
