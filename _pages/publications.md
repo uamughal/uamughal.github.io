@@ -40,8 +40,7 @@ U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by pa
 
 Cyber-Physical Dataset for UAVs Under Normal Operations and Cyber-attacks 
 [[Download on IEEE DataPort]](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks)
-
-- The dataet is collected from the actual drone system. It contains cyber (communication) and physical (behavioral) features. There are four attacks has been considered, namely, 
+The dataset is collected from the actual drone system. It contains cyber (communication) and physical (behavioral) features. There are four attacks has been considered, namely, 
   - Stealthy False Data Injection attack
   - Evil Twin attack
   - Replay attack
