@@ -28,13 +28,6 @@ U. A. Mughal, M. Ismail, “ Architecture Independent Intrusion Detection System
 
 S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023). <span style="color: blue;">(Accepted/in-press)<span> [[Download, IF:  8.5]](/files/IEEE_T_ITS.pdf)
 
-**Dataset:** 
-Cyber-Physical Dataset for UAVs Under Normal Operations and Cyber-attacks 
-[[Download on IEEE DataPort]](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks)
-
-
-
-
 
 U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [[Download, IF: 8.373]](/files/V2I.pdf) 
 
@@ -43,6 +36,16 @@ R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "
 U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [[Download]](https://link.springer.com/chapter/10.1007/978-981-19-1292-4_8)
 
 
+### Dataset: 
+
+Cyber-Physical Dataset for UAVs Under Normal Operations and Cyber-attacks 
+[[Download on IEEE DataPort]](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks)
+
+    The dataset contains cyber (communication) and physical (behavioral) features. There are four attacks, namely, 
+    - Stealthy False Data Injection attack
+    - Evil Twin attack
+    - Replay attack
+    - Denial-of-Servie attack
 
 ### Product and Simulator
 
