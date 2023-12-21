@@ -41,7 +41,12 @@ U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by pa
 Cyber-Physical Dataset for UAVs Under Normal Operations and Cyber-attacks 
 [[Download on IEEE DataPort].](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks)
 
-The dataset is collected from the actual drone system. It contains cyber (communication) and physical (behavioral) features. There are four attacks has been considered, namely, 
+The dataset is the first of its kind and collected from the actual drone system. It contains cyber (communication) and physical (behavioral) features under cyberattacks and normal operations of the drone. There is no dataset available that captures both cyber and physical features. 
+
+The fusion of cyber and physical data provides a comprehensive representation of a UAV’s operational state. While cyber data captures anomalies in communication patterns, physical data reveals discrepancies in flight dynamics and sudden changes in behavior such as roll, pitch, yaw angles, acceleration, etc. By fusing these data streams, we construct a
+detailed depiction of the UAV’s state across cyber and physical domains. This fusion enables accurate detection of attacks that might be missed when only one type of data is considered.
+
+The following cyberattacks has been executed to collect the data.
   - Stealthy False Data Injection attack
   - Evil Twin attack
   - Replay attack
