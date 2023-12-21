@@ -28,7 +28,7 @@ U. A. Mughal, M. Ismail, “ Architecture Independent Intrusion Detection System
 
 S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023). <span style="color: blue;">(Accepted/in-press)<span> [[Download, IF:  8.5]](/files/IEEE_T_ITS.pdf)
 
-### Dataset: 
+**Dataset:** 
 Cyber-Physical Dataset for UAVs Under Normal Operations and Cyber-attacks 
 [[Download on IEEE DataPort]](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks)
 
