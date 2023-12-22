@@ -26,7 +26,7 @@ U. A. Mughal, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communi
 
 U. A. Mughal, M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Cybernetics* (2023). <span style="color: blue;">(In Process) <span>
 
-S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023). <span style="color: blue;">(Accepted/in-press)<span> [[Download, IF:  9.5]](/files/IEEE_T_ITS.pdf) [[Link]](https://ieeexplore.ieee.org/document/10368002)
+S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[Download, IF:  9.5]](/files/IEEEE_T_ITS.pdf) [[Link]](https://ieeexplore.ieee.org/document/10368002)
 
 
 U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [[Download, IF: 8.373]](/files/V2I.pdf) 
