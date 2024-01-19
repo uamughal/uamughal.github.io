@@ -11,9 +11,9 @@ author_profile: true
 
 1. U. A. Mughal and M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) <span>
 
-2.	U. A. Mughal, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X Communication,”, in IEEE Transactions on Artificial Intelligence (2024). <span style="color: blue;">(Under Review) <span>
+2.	U. A. Mughal, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X Communication,”, in *IEEE Transactions on Artificial Intelligence* (2024). <span style="color: blue;">(Under Review) <span>
 
-3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, Internet of Thing Magazine (2024). <span style="color: blue;"> (Accepted/in-press) <span>
+3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, Internet of Thing Magazine (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[Download]](/files/IoTM.pdf)
 
 4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[Download, IF:  8.5]](/files/IEEEE_T_ITS.pdf) [[Link]](https://ieeexplore.ieee.org/document/10368002)
 
@@ -22,7 +22,7 @@ author_profile: true
 
 6. R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in IEEE Access, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [[Download, IF: 3.9]](/files/underwater.pdf) 
 
-7. U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [[Download]](https://link.springer.com/chapter/10.1007/978-981-19-1292-4_8)
+7. U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [[Download]](/files/VSLAM_PSO(TMC).pdf)
 
 
 
