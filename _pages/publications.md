@@ -11,8 +11,6 @@ author_profile: true
 
 1. U. A. Mughal and M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) <span>
 
-2.	U. A. Mughal, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X Communication,”, in *IEEE Transactions on Artificial Intelligence* (2024). <span style="color: blue;">(Under Review) <span>
-
 3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, Internet of Thing Magazine (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[Download]](/files/IoTM.pdf)
 
 4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[Download, IF:  8.5]](/files/IEEEE_T_ITS.pdf) [[Link]](https://ieeexplore.ieee.org/document/10368002)
@@ -27,6 +25,10 @@ author_profile: true
 
 
 ### Conference
+
+8. U. A. Mughal, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X 
+Communication,”, 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore. <span style="color: blue;"> (Under Review) (Soon on github) <span>
+
 
 8. U. A. Mughal, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. <span style="color: blue;">[[Download]](/files/ML.pdf)<span>
 
