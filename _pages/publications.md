@@ -13,7 +13,7 @@ author_profile: true
 
 3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[Download]](/files/IoTM.pdf)
 
-3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[Download]](/files/IoTM_RIS.pdf) (new)
+3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). (new)
 
 4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[Download, IF:  8.5]](/files/IEEEE_T_ITS.pdf) [[Link]](https://ieeexplore.ieee.org/document/10368002)
 
