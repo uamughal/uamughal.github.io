@@ -12,7 +12,7 @@ author_profile: true
 1. U. A. Mughal and M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) <span>
 
 
-3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). (new)
+3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[Download]](/files/IoTM.pdf)
 
 4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[Download, IF:  8.5]](/files/IEEEE_T_ITS.pdf) [[Link]](https://ieeexplore.ieee.org/document/10368002)
 
