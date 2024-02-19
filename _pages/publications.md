@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### Journals Publications
+### Journals Publications  (Updated)
 
 1. U. A. Mughal and M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) <span>
 
