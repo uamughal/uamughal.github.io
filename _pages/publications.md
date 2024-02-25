@@ -12,16 +12,16 @@ author_profile: true
 1. U. A. Mughal and M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) <span>
 
 
-3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[pdf]](/files/IoTM.pdf)
+3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> (Accepted/in-press) <span> [[PDF]](/files/IoTM.pdf)
 
-4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[IF:  8.5, pdf]](/files/IEEEE_T_ITS.pdf) [[code]](https://github.com/uamughal/Cyber-Physical-Intrusion-Detection-System-for-Unmanned-Aerial-Vehicles/tree/main)
+4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[[IF:  8.5, PDF]](/files/IEEEE_T_ITS.pdf) [[code]](https://github.com/uamughal/Cyber-Physical-Intrusion-Detection-System-for-Unmanned-Aerial-Vehicles/tree/main)
 
 
-5. U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [(IF: 6.7, pdf)](/files/V2I.pdf) [(code)](https://github.com/uamughal/Cellular-Vehilce-to-Infrastructure_C-V2I)
+5. U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [(IF: 6.7, PDF)](/files/V2I.pdf) [(code)](https://github.com/uamughal/Cellular-Vehilce-to-Infrastructure_C-V2I)
 
-6. R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in *IEEE Access*, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [[Download, IF: 3.9]](/files/underwater.pdf) 
+6. R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in *IEEE Access*, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [(PDF, IF: 3.9)](/files/underwater.pdf) 
 
-7. U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [[Download]](/files/VSLAM_PSO(TMC).pdf)
+7. U. A. Mughal, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [(PDF)](/files/VSLAM_PSO(TMC).pdf) [(code)](https://github.com/uamughal/PSO-VSLAM)
 
 
 
