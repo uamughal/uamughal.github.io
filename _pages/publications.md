@@ -17,7 +17,7 @@ author_profile: true
 4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[ IF:  8.5 (PDF)](/files/IEEEE_T_ITS.pdf) [(code)](https://github.com/uamughal/Cyber-Physical-Intrusion-Detection-System-for-Unmanned-Aerial-Vehicles/tree/main)
 
 
-5. U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020): 100282. [(IF: 6.7) (PDF)](/files/V2I.pdf) [(code)](https://github.com/uamughal/Cellular-Vehilce-to-Infrastructure_C-V2I)
+5. U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020). [(IF: 6.7) (PDF)](/files/V2I.pdf) [(code)](https://github.com/uamughal/Cellular-Vehilce-to-Infrastructure_C-V2I)
 
 6. R. Narmeen, I. Ahmad, Z. Kaleem, U. A. Mughal, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in *IEEE Access*, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [(IF: 3.9) (PDF)](/files/underwater.pdf) 
 
