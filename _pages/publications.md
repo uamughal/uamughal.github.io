@@ -9,12 +9,14 @@ author_profile: true
 
 ### Journals Publications  (Updated)
 
-1. U. A. Mughal and M. Ismail, “ Architecture Independent Intrusion Detection System for Swarm of Unmanned Aerial Vehicles,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) <span>
+1. **U. A. Mughal**, R. Atat, and M. Ismail, “Next-Gen Defense: an Architecture-Independent Sequential Ensemble Learning for Intrusion Detection in a Swarm of UAVs,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) (IF: 8.5)<span> 
+
+1. I. Ahmad, R. Narmeen, **U. A. Mughal**, and K. H. Chang, " Optimizing Cell Association and Stability in Integrated Aerial-to-Ground Next-Generation Consumer Wireless Networks," in *IEEE Transactions on Consumer Electronics* (2024). <span style="color: blue;">(Under Review) (IF: 4.3)<span>
 
 
-3. U. A. Mughal, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> (Accepted/in-press) <span> [(PDF)](/files/IoTM.pdf)
+3. **U. A. Mughal**, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> <span> [(PDF)](/files/IoTM.pdf)
 
-4. S. C. Hassler, U. A. Mughal, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[ IF:  8.5 (PDF)](/files/IEEEE_T_ITS.pdf) [(code)](https://github.com/uamughal/Cyber-Physical-Intrusion-Detection-System-for-Unmanned-Aerial-Vehicles/tree/main)
+4. S. C. Hassler, **U. A. Mughal**, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[ IF:  8.5 (PDF)](/files/IEEEE_T_ITS.pdf) [(code)](https://github.com/uamughal/Cyber-Physical-Intrusion-Detection-System-for-Unmanned-Aerial-Vehicles/tree/main)
 
 
 5. U. A. Mughal, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020). [IF: 6.7 (PDF)](/files/V2I.pdf) [(code)](https://github.com/uamughal/Cellular-Vehilce-to-Infrastructure_C-V2I)
