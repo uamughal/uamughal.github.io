@@ -11,6 +11,8 @@ author_profile: true
 
 1. **U. A. Mughal**, R. Atat, and M. Ismail, “Next-Gen Defense: an Architecture-Independent Sequential Ensemble Learning for Intrusion Detection in a Swarm of UAVs,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) (IF: 8.5)<span> 
 
+1. **U. A. Mughal**, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X Communication”, in *IEEE Transactions on Consumer Electronics (2024)*. <span style="color: blue;">(Under Review) (IF: 4.3)<span>
+
 1. I. Ahmad, R. Narmeen, **U. A. Mughal**, and K. H. Chang, " Optimizing Cell Association and Stability in Integrated Aerial-to-Ground Next-Generation Consumer Wireless Networks," in *IEEE Transactions on Consumer Electronics* (2024). <span style="color: blue;">(Under Review) (IF: 4.3)<span>
 
 
@@ -23,16 +25,14 @@ author_profile: true
 
 6. R. Narmeen, I. Ahmad, Z. Kaleem, **U. A. Mughal**, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in *IEEE Access*, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [IF: 3.9 (PDF)](/files/underwater.pdf) 
 
-7. **U. A. Mughal**, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [(PDF)](/files/VSLAM_PSO(TMC).pdf) [(code)](https://github.com/uamughal/PSO-VSLAM)
-
+8. **U. A. Mughal**, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [(PDF)](/files/VSLAM_PSO(TMC).pdf) [(code)](https://github.com/uamughal/PSO-VSLAM)
 
 
 ### Conference
 
-8. **U. A. Mughal**, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X Communication,”, 2024 *IEEE 99th Vehicular Technology Conference (VTC2024-Spring)*, Singapore. <span style="color: blue;"> (Under Review) (Soon on github) <span>
+9. **U. A. Mughal**, R. Atat, and M. Ismail, Graph Neural Network-based Intrusion Detection System for a Swarm of UAVs”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. <span style="color: blue;"> (Under Review)<span>
 
-
-8. **U. A. Mughal**, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. [(PDF)](/files/ML.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
+9. **U. A. Mughal**, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. [(PDF)](/files/ML.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
 
 9. **U. A. Mughal**, M. Ismail and S. A. A. Rizvi, "Stealthy False Data Injection Attack on Unmanned Aerial Vehicles with Partial Knowledge," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10289001. [(PDF)](/files/FDI.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
 
