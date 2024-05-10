@@ -32,15 +32,18 @@ author_profile: true
 
 9. **U. A. Mughal**, R. Atat, and M. Ismail, Graph Neural Network-based Intrusion Detection System for a Swarm of UAVs”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. <span style="color: blue;"> (Under Review)<span>
 
-9. **U. A. Mughal**, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. [(PDF)](/files/ML.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
+10. John Richeson, **U. A. Mughal**, A. Takiddin, and M. Ismail, “Robust UAV Intrusion Detection System Against Adversarial Evasion 
+Attacks”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. 
 
-9. **U. A. Mughal**, M. Ismail and S. A. A. Rizvi, "Stealthy False Data Injection Attack on Unmanned Aerial Vehicles with Partial Knowledge," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10289001. [(PDF)](/files/FDI.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
+10. **U. A. Mughal**, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. [(PDF)](/files/ML.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
 
-10. N. Ahmad, **U. A. Mughal**, K. H. Change, "3D Path Planning of Unmanned Aerial Vehicles," *2020 Korea Communications Society Conference*, Korea, 2020, pp. 43 - 435. [(PDF)](/files/3D-PathPlanning.pdf)
+11. **U. A. Mughal**, M. Ismail and S. A. A. Rizvi, "Stealthy False Data Injection Attack on Unmanned Aerial Vehicles with Partial Knowledge," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10289001. [(PDF)](/files/FDI.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
 
-11. **U. A. Mughal**, I. Ahmad, and K. H. Chang, “Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems”, *in Proc. JCCI 2019: 29th Joint Communication and Information Conference*, May 2019 [(PDF)](/files/JCCI.pdf)
+12. N. Ahmad, **U. A. Mughal**, K. H. Change, "3D Path Planning of Unmanned Aerial Vehicles," *2020 Korea Communications Society Conference*, Korea, 2020, pp. 43 - 435. [(PDF)](/files/3D-PathPlanning.pdf)
 
-12. **U. A. Mughal**, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communications," *2019 Korea Communications Society Conference*, Korea, 2019, pp. 1486 - 1487. [(PDF)](/files/5G-V2X.pdf)
+13. **U. A. Mughal**, I. Ahmad, and K. H. Chang, “Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems”, *in Proc. JCCI 2019: 29th Joint Communication and Information Conference*, May 2019 [(PDF)](/files/JCCI.pdf)
+
+14. **U. A. Mughal**, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communications," *2019 Korea Communications Society Conference*, Korea, 2019, pp. 1486 - 1487. [(PDF)](/files/5G-V2X.pdf)
 
 <span style="color: blue;"> <span>
 
