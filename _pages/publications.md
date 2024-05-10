@@ -33,7 +33,7 @@ author_profile: true
 9. **U. A. Mughal**, R. Atat, and M. Ismail, Graph Neural Network-based Intrusion Detection System for a Swarm of UAVs”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. <span style="color: blue;"> (Under Review)<span>
 
 10. John Richeson, **U. A. Mughal**, A. Takiddin, and M. Ismail, “Robust UAV Intrusion Detection System Against Adversarial Evasion 
-Attacks”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. 
+Attacks”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. <span style="color: blue;"> (Under Review)<span>
 
 10. **U. A. Mughal**, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. [(PDF)](/files/ML.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
 
