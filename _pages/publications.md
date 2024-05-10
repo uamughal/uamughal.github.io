@@ -65,7 +65,7 @@ The following cyberattacks has been executed to collect the data.
   - Replay attack
   - Denial-of-Servie attack
 
-### Product and Simulator
+### Software and Simulator
 
 - **Developed Cellular Vehicle-to-everything (C-V2X) Simulator and delivered to Korea’s MSIT (Ministry of Science, Information, and Technology).**
 
