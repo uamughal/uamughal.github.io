@@ -81,3 +81,9 @@ More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&us
 
 
 <span style="color: blue;">  <span>
+
+
+**Secure Programming class**
+- CI/CD pipeline discussion
+- Workflow 
+- What is Github actions
