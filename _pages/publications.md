@@ -81,3 +81,8 @@ More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&us
 
 
 <span style="color: blue;">  <span>
+
+
+*Secure programming demo ci/cd*
+- pipline 
+- demo class fall-2024
