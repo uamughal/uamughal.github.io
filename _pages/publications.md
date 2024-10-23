@@ -81,13 +81,3 @@ More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&us
 
 
 <span style="color: blue;">  <span>
-
-
-**Secure Programming class**
-- CI/CD pipeline discussion
-- Workflow 
-- What is Github actions
-- 
-
-**uploading a Pdf file**
-- the file name is lecture-8 Error states: [Lecture slides](/files/08-testing-cicd-cov.pdf)
