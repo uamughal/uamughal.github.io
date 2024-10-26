@@ -15,8 +15,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Blog Posts"
-    url: /blogs/
+ # - title: "Blog Posts"
+ #   url: /blogs/
     
   - title: "CV"
     url: /files/Hasan_Eslam_CV_draft.pdf
