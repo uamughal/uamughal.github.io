@@ -7,47 +7,31 @@ author_profile: true
 
 
 
-### Journals Publications  (Updated)
+### Journals
 
-1. **U. A. Mughal**, R. Atat, and M. Ismail, “Next-Gen Defense: an Architecture-Independent Sequential Ensemble Learning for Intrusion Detection in a Swarm of UAVs,”, in *IEEE Transactions on Intelligent Transportation Systems* (2024). <span style="color: blue;">(Under Review) (IF: 8.5)<span> 
+1. E. Mahalal, **E. Hasan**, M. Ismail, Z.-Y. Wu, M. M. Fouda, Z. M. Fadlullah, and N. Kato, “GAN-based Artificial Noise Generation Against Eavesdropping In Dynamic Indoor LiFi Networks,” Under Review in IEEE Transactions on Wireless Communications.<span>
 
-1. **U. A. Mughal**, I. Ahmad, and C. Yuen, “Ensemble Learning-Based Intrusion Detection System for RIS-Assisted V2X Communication”, in *IEEE Transactions on Consumer Electronics (2024)*. <span style="color: blue;">(Under Review) (IF: 4.3)<span>
+2. **​​E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “mmWave and Terahertz Indoor Channel Prediction under Data Drift in Real-world Scenarios,” Under Review in IEEE Transactions on Cognitive Communications and Networking.<span>
 
-1. I. Ahmad, R. Narmeen, **U. A. Mughal**, and K. H. Chang, " Optimizing Cell Association and Stability in Integrated Aerial-to-Ground Next-Generation Consumer Wireless Networks," in *IEEE Transactions on Consumer Electronics* (2024). <span style="color: blue;">(Under Review) (IF: 4.3)<span>
+3. Ali, E.B., Kishk, S. & Abdelhay, E.H. Multi-device Multi-task Computation Offloading in Device to Device Communication. Wireless Pers Commun 123, 1883–1896 (2022).<span>
 
+4. **Eslam B. Ali**, Sherif Kishk, Ehab H. Abdelhay, Multidimensional auction for task allocation using computation offloading in fifth generation networks, Future Generation Computer Systems, Volume 108, 2020.<span>
 
-3. **U. A. Mughal**, Y. Alkhrijah, A. Almadhor,  C. Yuen, “ Deep Learning for Secure UAV-Assisted RIS Communication Networks”, *Internet of Thing Magazine* (2024). <span style="color: blue;"> <span> [(PDF)](/files/IoTM.pdf)
+### Magazines
 
-4. S. C. Hassler, **U. A. Mughal**, and M. Ismail, “Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles,” in *IEEE Transactions on Intelligent Transportation Systems* (2023).[ IF:  8.5 (PDF)](/files/IEEEE_T_ITS.pdf) [(code)](https://github.com/uamughal/Cyber-Physical-Intrusion-Detection-System-for-Unmanned-Aerial-Vehicles/tree/main)
-
-
-5. **U. A. Mughal**, J. Xiao, I. Ahmad, and K. H. Chang, “Cooperative Resource Management for Cellular V2I Communications in a Dense Urban Environment”, in *Vehicular Communications* 26 (2020). [IF: 6.7 (PDF)](/files/V2I.pdf) [(code)](https://github.com/uamughal/Cellular-Vehilce-to-Infrastructure_C-V2I)
-
-6. R. Narmeen, I. Ahmad, Z. Kaleem, **U. A. Mughal**, D. B. Da Costa and S. Muhaidat, "Shortest Propagation Delay-Based Relay Selection for Underwater Acoustic Sensor Networks," in *IEEE Access*, vol. 9, pp. 37923-37935, 2021, doi: 10.1109/ACCESS.2021.3061273. [IF: 3.9 (PDF)](/files/underwater.pdf) 
-
-8. **U. A. Mughal**, I. Ahmad, C. J. Pawase, and K. H. Chang. "UAVs path planning by particle swarm optimization based on visual-SLAM algorithm," In *Intelligent Unmanned Air Vehicles Communications for Public Safety Networks*, pp. 169-197. Singapore: Springer Nature Singapore, 2022. [(PDF)](/files/VSLAM_PSO(TMC).pdf) [(code)](https://github.com/uamughal/PSO-VSLAM)
-
+5. **E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Towards Robust Channel Prediction in 6G Networks: Mitigating the concept drift using ISAC,” Under Review in IEEE Wireless Communications.<span>
 
 ### Conference
 
-9. **U. A. Mughal**, R. Atat, and M. Ismail, Graph Neural Network-based Intrusion Detection System for a Swarm of UAVs”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. <span style="color: blue;"> (Under Review)<span>
-
-10. John Richeson, **U. A. Mughal**, A. Takiddin, and M. Ismail, “Robust UAV Intrusion Detection System Against Adversarial Evasion 
-Attacks”, in *2024 IEEE Military Communications Conference (MILCOM-2024)*, Washington, DC, USA. <span style="color: blue;"> (Under Review)<span>
-
-10. **U. A. Mughal**, S. C. Hassler and M. Ismail, "Machine Learning-Based Intrusion Detection for Swarm of Unmanned Aerial Vehicles," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10288962. [(PDF)](/files/ML.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
-
-11. **U. A. Mughal**, M. Ismail and S. A. A. Rizvi, "Stealthy False Data Injection Attack on Unmanned Aerial Vehicles with Partial Knowledge," *2023 IEEE Conference on Communications and Network Security (CNS)*, Orlando, FL, USA, 2023, pp. 1-9, doi: 10.1109/CNS59707.2023.10289001. [(PDF)](/files/FDI.pdf) [(code)](https://github.com/uamughal/Stealthy-False-Data-Injection-Attack)
-
-12. N. Ahmad, **U. A. Mughal**, K. H. Change, "3D Path Planning of Unmanned Aerial Vehicles," *2020 Korea Communications Society Conference*, Korea, 2020, pp. 43 - 435. [(PDF)](/files/3D-PathPlanning.pdf)
-
-13. **U. A. Mughal**, I. Ahmad, and K. H. Chang, “Cellular V2X communications in unlicensed spectrum: Compatible coexistence with VANET in 5G systems”, *in Proc. JCCI 2019: 29th Joint Communication and Information Conference*, May 2019 [(PDF)](/files/JCCI.pdf)
-
-14. **U. A. Mughal**, I. Ahmad, K. H. Chang, "Virtual cells operation for 5G V2X communications," *2019 Korea Communications Society Conference*, Korea, 2019, pp. 1486 - 1487. [(PDF)](/files/5G-V2X.pdf)
+6. E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Sensing-aided Terahertz Channel Prediction: A Robust Deep Learning Approach Against Concept Drift,” To Be Submitted in 2025 IEEE Global Communications Conference (GLOBECOM), 2025.<span>
+7. ​E. Mahalal, E. Hasan, M. Ismail, Z.-Y. Wu, M. M. Fouda, and Z. M. Fadlullah, “Deep Learning-based Physical Layer Authentication Against Impersonation Attacks in LiFi Networks,” Under Review in 2025 IEEE 60th International Conference on Communication (ICC), 2025.<span>
+8. ​E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and Z. M. Fadlullah, “Communication-aided Terahertz Sensing: A Novel Indoor People Counting System Via Deep Learning,” Under Review in 2024 IEEE 2nd Virtual Conference on Communications (VCC), 2024.<span>
+9. ​E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Occupancy-level-aware Indoor Terahertz Channel Prediction: A Robust Deep Learning Approach,” Accepted in 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), 2024.<span>
+10. E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, T. Koketsu Rodrigues, and N. Kato, “Robust deep learning-based indoor mmwave channel prediction under concept drift,” in 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), 2023, pp. 1–5.<span>
 
 <span style="color: blue;"> <span>
 
-
+```
 
 ### Dataset: 
 
@@ -81,3 +65,4 @@ More detail on my [Google Scholar](https://scholar.google.com/citations?hl=en&us
 
 
 <span style="color: blue;">  <span>
+```
