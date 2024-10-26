@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=huABJdsAAAAJ&hl=en"
   email            : "ebhasan42@tntech.edu"
-  researchgate     : ""
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Al-Bitar"
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
-  linkedin         : "" 
+  linkedin         :  
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
