@@ -5,33 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching Assistant (Tennessee Technological University, USA)
+### Teaching Assistant (American University in Cairo, Egypt)
 
-I have taught the following core Computer Science at Tennessee Technological University, USA.
+- DSCI2411: Data Visualization​
 
-- CSC-2310: Object Oriented Programming/Design in Python    (Spring 2023) 
+### Teaching Assistant (​​Modern Academy for Engineering and Technology, Egypt)
 
-- CSC-3410: Computer Org/Assembly Language  Programming      (Spring 2023)
+- CMP111: Logic Circuit Design      
 
-- CSS-3410: Computer Org/Assembly Language Programming       (Fall 2022)
+- ELC211: Signal analysis                      
 
-- CSC-2310: Object Oriented Programming/Design in Java      (Summer 2022)
+- ELC215: Analog Communication Systems                      
 
-
-
-### Teaching Assistant (Inha University, Korea)
-
-- ECE: Advanced Wireless Communications          (Spring 2020)
-
-- ECE: Circuit Analysis-II                       (Fall 2019)
-
-- ECE: Circuit Analysis-I                        (Spring 2019)
-
-
-### Instructor (Qurtuba University, Pakistan) 
-
-- EE-271: Object Oriented Programming & Data Structure in C++
-
-- EE-493: Computer Networks
-
-- EE-391: Communication Systems 
+- ELC321: Digital Communication Systems
