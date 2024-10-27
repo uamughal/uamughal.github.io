@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Research Overview"
-excerpt: "About me"
+title: "Biography"
+excerpt: "Eslam Hasan is a PhD candidate in the Computer Science Department, Faculty of Engineering, Tennessee Tech University, Cookeville, TN, USA. He is an experienced academic with 7 years of research and teaching experience in prestigious institutes, including the American University in Cairo, the Modern Academy for Engineering and Technology, and Mansoura University. Mr. Hasan has a research portfolio of 4 journal papers, 5 conference papers, and one magazine. His citation record is 13, h-index 2, and i10-index 1. His research interests include 5G+ wireless networks, AI, and security.
+Mr. Hasan taught various undergraduate courses and presented at leading conferences worldwide, such as the IEEE Vehicular Technology Conference (VTC). He is an IEEE graduate member and a reviewer for the IET Communication journal, IEEE VTC, and IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS). He served as a session chair for three sessions in IEEE VTC Fall 2024. He serves regularly in conference organizations and TPC membership for IEEE flagship conferences such as the IEEE Virtual Conference on Communications (VCC)."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +10,10 @@ redirect_from:
 ---
 
 
-<!--
 
+
+
+<!---
 My research focuses on AI-assisted Cybersecurity solutions for autonomous vehicles. I build systems that learn patterns from and collect data about the network, operator, and attacker behaviors. I conduct ethical penetration testing on real world autonomous vehicles to identify the vulnerabilities. I analyze the data my system collects using machine learning to uncover the critical operational threats and risks to develop intelligent intrusion detection system that can automatically detect and respond to the sophisticated attacks.
 
 The executed attacks includes stealthy False data injection, evil twin, replay, de-authentication, evasion attacks, reinforcement learning to attack a drone swarm, etc.
@@ -37,8 +40,6 @@ provide smooth communication and control.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d680G6HrBtQ?si=Wa4FoAwTbEV6jak6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 The demo video shows a cyber attack on a drone swarm. It depicts how the coordination among the drones disrupts once the attack is launched.
 -->
