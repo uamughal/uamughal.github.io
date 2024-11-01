@@ -13,7 +13,7 @@ author_profile: true
 
 2. **​​E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “mmWave and Terahertz Indoor Channel Prediction under Data Drift in Real-world Scenarios,” Under Review in IEEE Transactions on Cognitive Communications and Networking.<span>
 
-3. Ali, E.B., Kishk, S. & Abdelhay, E.H. Multi-device Multi-task Computation Offloading in Device to Device Communication. Wireless Pers Commun 123, 1883–1896 (2022).<span>
+3. **Eslam B. Ali**, Kishk, S. & Abdelhay, E.H. Multi-device Multi-task Computation Offloading in Device to Device Communication. Wireless Pers Commun 123, 1883–1896 (2022).<span>
 
 4. **Eslam B. Ali**, Sherif Kishk, Ehab H. Abdelhay, Multidimensional auction for task allocation using computation offloading in fifth generation networks, Future Generation Computer Systems, Volume 108, 2020.<span>
 
@@ -23,11 +23,11 @@ author_profile: true
 
 ### Conference
 
-6. E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Sensing-aided Terahertz Channel Prediction: A Robust Deep Learning Approach Against Concept Drift,” To Be Submitted in 2025 IEEE Global Communications Conference (GLOBECOM), 2025.<span>
-7. ​E. Mahalal, E. Hasan, M. Ismail, Z.-Y. Wu, M. M. Fouda, and Z. M. Fadlullah, “Deep Learning-based Physical Layer Authentication Against Impersonation Attacks in LiFi Networks,” Under Review in 2025 IEEE 60th International Conference on Communication (ICC), 2025.<span>
-8. ​E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and Z. M. Fadlullah, “Communication-aided Terahertz Sensing: A Novel Indoor People Counting System Via Deep Learning,” Under Review in 2024 IEEE 2nd Virtual Conference on Communications (VCC), 2024.<span>
-9. ​E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Occupancy-level-aware Indoor Terahertz Channel Prediction: A Robust Deep Learning Approach,” Accepted in 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), 2024.<span>
-10. E. Hasan, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, T. Koketsu Rodrigues, and N. Kato, “Robust deep learning-based indoor mmwave channel prediction under concept drift,” in 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), 2023, pp. 1–5.<span>
+6. **E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Sensing-aided Terahertz Channel Prediction: A Robust Deep Learning Approach Against Concept Drift,” To Be Submitted in 2025 IEEE Global Communications Conference (GLOBECOM), 2025.<span>
+7. ​E. Mahalal, **E. Hasan**, M. Ismail, Z.-Y. Wu, M. M. Fouda, and Z. M. Fadlullah, “Deep Learning-based Physical Layer Authentication Against Impersonation Attacks in LiFi Networks,” Under Review in 2025 IEEE 60th International Conference on Communication (ICC), 2025.<span>
+8. **E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and Z. M. Fadlullah, “Communication-aided Terahertz Sensing: A Novel Indoor People Counting System Via Deep Learning,” Under Review in 2024 IEEE 2nd Virtual Conference on Communications (VCC), 2024.<span>
+9. **​E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, and N. Kato, “Occupancy-level-aware Indoor Terahertz Channel Prediction: A Robust Deep Learning Approach,” Accepted in 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), 2024.<span>
+10. **E. Hasan**, E. Mahalal, M. Ismail, Z.-Y. Wu, M. M. Fouda, T. Koketsu Rodrigues, and N. Kato, “Robust deep learning-based indoor mmwave channel prediction under concept drift,” in 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), 2023, pp. 1–5.<span>
 
 <span style="color: blue;"> <span>
 
