@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
   linkedin         :  
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            :  "https://orcid.org/0000-0001-7385-2632"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCvuIIV-z8GvVIjtUX7SNdbw"
   wikipedia        :
 
 
