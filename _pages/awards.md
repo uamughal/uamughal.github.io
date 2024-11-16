@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
+### PhD Scholarship Award,
+*Tennessee Tech University, Cookeville, TN, USA.*
 
-### Recipient of the Jungseok International Scholarship to pursue M.S. Studies at Inha University, Korea. 
+### Diploma Scholarship Award (10% acceptance rate),
+*Information Technology Institute, Cairo, Egypt.*
 
-- [Certificate of Scholarship](/files/Certificate_of_Scholarship_inha.pdf)
-
-### Presented two research papers at the 2023 IEEE Communication and Network Security, Orlando, FL, USA.
-- [Certificate of Participation](/files/CNS_certificate.pdf)
-
-- Granted Travel fund from the Centre for Energy and Research, Tennessee Tech University 
+<!---
+### Travel fund from the Centre for Energy and Research, Tennessee Tech University.
+-->

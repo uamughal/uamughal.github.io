@@ -6,6 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Supervision"
+    url: /supervision/
+
   - title: "Talks"
     url: /talks/  
 
@@ -15,11 +18,11 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Blog Posts"
-    url: /blogs/
+ # - title: "Blog Posts"
+ #   url: /blogs/
     
   - title: "CV"
-    url: /files/Resume.pdf
+    url: /files/CV.pdf
     
 #  - title: "Portfolio"
 #   url: /portfolio/       

@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Umair Mugha"
+name                     : &name "Eslam Hasan"
 description              : &description "personal description"
-url                      : https://uamughal.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eslamhasan.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uamughal/uamughal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Umair Mughal"
-  avatar           : "headshot.jpg"
-  bio              : "I am a PhD Candidate at the Computer Science Department at Tennessee Tech University."
-  location         : "Tenneessee, USA"
-  employer         :
+  name             : "Eslam Hasan"
+  avatar           : "ENGINEERING_FAIR_HEADSHOTS_8_FEB_24_0103.jpg" #eslamhasan
+  bio              : "I am a PhD Candidate in the Computer Science Department at Tennessee Tech University."
+  location         : "Cookeville, TN, USA"
+  employer         :  "Tennessee Tech University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : " umairmughal42@tntech.edu"
-  researchgate     : "https://www.researchgate.net/profile/Umair-Mughal/research"
+  googlescholar    : "https://scholar.google.com/citations?user=huABJdsAAAAJ&hl=en"
+  email            : "ebhasan42@tntech.edu"
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "uamughal"
+  github           : "eslamhasan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
-  linkedin         : "umair-mughal-490715174/" 
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         :  
+  orcid            :  "https://orcid.org/0000-0001-7385-2632"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCvuIIV-z8GvVIjtUX7SNdbw"
   wikipedia        :
 
 
